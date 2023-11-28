@@ -17,8 +17,8 @@ import {
 // import react icons
 import { FaGithub } from 'react-icons/fa';
 import { AiOutlineMail } from 'react-icons/ai';
-import { IoIosAppstore } from 'react-icons/io';
-import { BiLogoPlayStore } from 'react-icons/bi';
+//import { IoIosAppstore } from 'react-icons/io';
+//import { BiLogoPlayStore } from 'react-icons/bi';
 
 // import assets
 import splash from '../assets/splash.png';
