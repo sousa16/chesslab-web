@@ -72,11 +72,9 @@ const Showcase = () => {
                         </IconContainer>
                     {</a>*/}
 
-                    <a href="#">
-                        <IconContainer color='white' size='2rem'>
-                            <FaGithub />
-                        </IconContainer>
-                    </a>
+                    <IconContainer color='white' size='2rem'>
+                        <FaGithub />
+                    </IconContainer>
 
                     <a href='mailto:jpcsousa@outlook.pt' target='_blank' rel="noreferrer">
                         <IconContainer color='white' size='2rem'>
