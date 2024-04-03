@@ -72,7 +72,7 @@ const Showcase = () => {
                         </IconContainer>
                     {</a>*/}
 
-                    <a href='https://github.com/MartimBaltazar/ChessLab' target='_blank' rel="noreferrer">
+                    <a href="#">
                         <IconContainer color='white' size='2rem'>
                             <FaGithub />
                         </IconContainer>
